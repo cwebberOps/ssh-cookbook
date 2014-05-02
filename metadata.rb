@@ -1,0 +1,7 @@
+name 'ssh'
+maintainer 'Christopher Webber'
+maintainer_email 'cwebber@getchef.com'
+license 'Apache'
+description 'Installs/Configures ssh'
+long_description 'Installs/Configures ssh'
+version '0.0.1'
